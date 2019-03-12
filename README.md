@@ -1,10 +1,10 @@
 Enikő Tóthová :woman:
 
-Hey, welcome to my GF repos! :green_heart:
+Hey, welcome to my GF repo! :green_heart:
 
 [Check out my personal repo](https://github.com/bleaksmile)
 
-[My petProject (literally :) )](https://github.com/green-fox-academy/petpal)
+[My petProject (literally :grin: )](https://github.com/green-fox-academy/petpal)
 
 [Check my first webpage here](https://bleaksmile.github.io/)
 
